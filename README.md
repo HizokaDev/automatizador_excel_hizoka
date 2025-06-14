@@ -1,4 +1,4 @@
-# 🧾 Automatizador de Reportes Excel
+4# 🧾 Automatizador de Reportes Excel
 
 Este proyecto permite consolidar automáticamente datos desde múltiples archivos Excel con estructuras distintas (como informes de pagos y transferencias) hacia una plantilla base, generando un reporte unificado listo para análisis o uso en Power BI.
 
@@ -26,7 +26,6 @@ Este proyecto permite consolidar automáticamente datos desde múltiples archivo
 ---
 
 ## 📁 Estructura del proyecto
-├── actualizar_reporte.py        ← Script principal │   ├── exportar_excel.py            ← Funciones de exportación │   ├── s400.xlsx                    ← Archivo de ejemplo 1 │   ├── fsat.xlsx                    ← Archivo de ejemplo 2 │   └── plantilla_base.xlsx          ← Archivo base para consolidar ├── instrucciones.txt                ← Guía de uso (opcional) └── ejecutar_reporte.bat             ← Ejecutable para Windows (opcional)
 
 
 ## ▶️ ¿Cómo usar?
