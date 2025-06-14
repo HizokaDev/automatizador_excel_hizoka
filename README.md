@@ -61,7 +61,7 @@ Pronto disponible como versión portátil para clientes.
 👤 Autor
 
 Desarrollado por Hizoka, como parte de su entrenamiento autodidacta en automatización de tareas con Python y Excel.
-Contacto: [Tu enlace de GitHub o Workana]
+
 
 
 ---
